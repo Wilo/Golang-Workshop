@@ -1,0 +1,3 @@
+[submodule "url-shortener-echo"]
+	path = url-shortener-echo
+	url = git@github.com:Wilo/url-shortener-echo.git
